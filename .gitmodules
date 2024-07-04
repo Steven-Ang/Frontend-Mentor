@@ -1,3 +1,12 @@
 [submodule "qr-code"]
 	path = qr-code
 	url = git@github.com:Steven-Ang/Frontend-Mentor-QR-Code.git
+[submodule "blog-preview-page"]
+	path = blog-preview-page
+	url = git@github.com:Steven-Ang/Frontend-Mentor-Blog-Preview-Card.git
+[submodule "social-link-profile"]
+	path = social-link-profile
+	url = git@github.com:Steven-Ang/Frontend-Mentor-Social-Links-Profile.git
+[submodule "recipe-page"]
+	path = recipe-page
+	url = git@github.com:Steven-Ang/Frontend-Mentor-Recipe-Page.git
