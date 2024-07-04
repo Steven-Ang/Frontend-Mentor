@@ -1,0 +1,3 @@
+[submodule "qr-code"]
+	path = qr-code
+	url = git@github.com:Steven-Ang/Frontend-Mentor-QR-Code.git
